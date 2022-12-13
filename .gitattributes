@@ -1,0 +1,2 @@
+*mp4 filter=lfs diff=lfs merge=lfs -text
+7.[[:space:]]Un-Staging[[:space:]]Changes[[:space:]]With[[:space:]]Git[[:space:]]Restore.mp4 filter=lfs diff=lfs merge=lfs -text
