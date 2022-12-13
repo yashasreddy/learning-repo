@@ -14,3 +14,5 @@ print('new commit')
 print('one more print')
 
 print("new one")
+
+print("added from cloud")
