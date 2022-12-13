@@ -11,4 +11,8 @@ path = pathlib.Path(__file__)
 print(path)
 
 print('new commit')
-print('one more changed')
+print('one more print')
+
+print("new one")
+
+print("added from cloud")
